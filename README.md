@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬We can have a conversation on **React,TypeScript,JavaScript**
+- 💬We can have conversations on **React,TypeScript,JavaScript**
 
 - ⚡ Fun fact **I think I am MR.Robot**
 
