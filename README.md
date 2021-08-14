@@ -10,6 +10,7 @@
 - ⚡ Fun fact **I think I am MR.Robot**
 
 <h3 align="left">Blogs</h3>
+
 - https://pratimcodes.hashnode.dev/first-step-towards-typescript
 - https://pratimcodes.hashnode.dev/webpack-performance-optimization
 - https://pratimcodes.hashnode.dev/how-javascript-code-executes-behind-the-scenes
