@@ -3,11 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/pratimcodes" target="blank"><img src="https://img.shields.io/twitter/follow/pratimcodes?logo=twitter&style=for-the-badge" alt="pratimcodes" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- Much More into eminem and metal 
 
-- 💬We can have conversations on **React,TypeScript,JavaScript**
-
-- ⚡ Fun fact **I think I am MR.Robot**
 
 <h3 align="left">Blogs</h3>
 
