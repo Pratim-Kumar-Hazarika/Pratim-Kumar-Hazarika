@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/pratimcodes" target="blank"><img src="https://img.shields.io/twitter/follow/pratimcodes?logo=twitter&style=for-the-badge" alt="pratimcodes" /></a> </p>
 
 - Much More into eminem and metal 
+- Learning React Native
 
 
 <h3 align="left">Blogs</h3>
