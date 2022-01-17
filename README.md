@@ -17,7 +17,7 @@
 
 - https://proton-ui.netlify.app/
 
-<h3 align="left">TypeScript Projects</h3>
+<h3 align="left">TypeScript Projects (Full Stack)</h3>
 
 - https://dev-devkeep.netlify.app/
 - https://dev-devtube.netlify.app/
