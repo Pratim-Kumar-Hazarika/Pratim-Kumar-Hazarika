@@ -13,6 +13,10 @@
 - https://pratimcodes.hashnode.dev/webpack-performance-optimization
 - https://pratimcodes.hashnode.dev/how-javascript-code-executes-behind-the-scenes
 
+<h3 align="left">CSS Component Library</h3>
+
+- https://proton-ui.netlify.app/
+
 <h3 align="left">TypeScript Projects</h3>
 
 - https://dev-devkeep.netlify.app/
