@@ -42,9 +42,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7433795975220969472/
 ## 🔬 Deep Dives
 
 ### 🔹 Exploring Kafka
-Hands-on experiments with producers, consumers, partitions & scaling patterns.  
-
-Repo:  
 https://github.com/Pratim-Kumar-Hazarika/exploring-kafka
 
 ---
