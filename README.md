@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratim Hazarika</h1>
 <h3 align="center">Full-Stack Engineer | Systems Design Enthusiast | Building Scalable Architectures</h3>
-<h4 align="center">I can build full stack web + mobile apps + deploy anywhere </h3>
+<h4 align="center">I can build full stack (web+mobile) apps && deploy it.</h3>
 <p align="left">
   <a href="https://twitter.com/pratimcodes" target="blank">
     <img src="https://img.shields.io/twitter/follow/pratimcodes?logo=twitter&style=for-the-badge" alt="pratimcodes" />
