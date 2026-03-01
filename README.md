@@ -46,16 +46,6 @@ https://github.com/Pratim-Kumar-Hazarika/exploring-kafka
 
 ---
 
-## ✍️ Technical Writing
-
-- First Step Towards TypeScript  
-- Webpack Performance Optimization  
-- How JavaScript Executes Behind the Scenes  
-
-👉 https://pratimcodes.hashnode.dev/
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Bootstrap  
