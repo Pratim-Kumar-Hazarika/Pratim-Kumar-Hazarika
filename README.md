@@ -1,30 +1,72 @@
-<h1 align="center">Hi 👋, I'm Pratim</h1>
+<h1 align="center">Hi 👋, I'm Pratim Hazarika</h1>
+<h3 align="center">Full-Stack Engineer | Systems Design Enthusiast | Building Scalable Architectures</h3>
 
+<p align="left">
+  <a href="https://twitter.com/pratimcodes" target="blank">
+    <img src="https://img.shields.io/twitter/follow/pratimcodes?logo=twitter&style=for-the-badge" alt="pratimcodes" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/pratimcodes" target="blank"><img src="https://img.shields.io/twitter/follow/pratimcodes?logo=twitter&style=for-the-badge" alt="pratimcodes" /></a> </p>
+---
 
-- Much More into eminem and metal 
-- Learning React Native
+## 🚀 About Me
 
+- 💼 3+ years of experience as a Full-Stack Engineer  
+- 🧠 Strong in JavaScript, React, TypeScript & system-level thinking  
+- ⚙️ Experienced with AWS, Docker, Redis & building scalable distributed systems  
+- 🛢️ Databases: SQL + NoSQL  
 
-<h3 align="left">Blogs</h3>
+I enjoy building systems that **scale**, not just interfaces that look good.
 
-- https://pratimcodes.hashnode.dev/first-step-towards-typescript
-- https://pratimcodes.hashnode.dev/webpack-performance-optimization
-- https://pratimcodes.hashnode.dev/how-javascript-code-executes-behind-the-scenes
+---
 
-<h3 align="left">CSS Component Library</h3>
+## 🌐 Connect With Me
 
-- https://proton-ui.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/pratim-hazarika/  
+- Twitter: https://twitter.com/pratimcodes  
+- Portfolio/Blogs: https://pratimcodes.hashnode.dev/
 
-<h3 align="left">TypeScript Projects (Full Stack)</h3>
+---
 
-- https://dev-devkeep.netlify.app/
-- https://dev-devtube.netlify.app/
+## 🧠 Systems Engineering
 
-<h3 align="left">My Talks</h3>
+### 🔹 Video Transcoding Architecture
+Event-driven pipeline using AWS services:  
+S3 → Lambda → SQS → ECS (on-demand) → FFmpeg → S3 → RDS  
 
-- https://www.youtube.com/watch?v=Pdru6pV3A48&t=1740s
+Post:  
+https://www.linkedin.com/feed/update/urn:li:activity:7433795975220969472/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🔬 Deep Dives
+
+### 🔹 Exploring Kafka
+Hands-on experiments with producers, consumers, partitions & scaling patterns.  
+
+Repo:  
+https://github.com/Pratim-Kumar-Hazarika/exploring-kafka
+
+---
+
+## ✍️ Technical Writing
+
+- First Step Towards TypeScript  
+- Webpack Performance Optimization  
+- How JavaScript Executes Behind the Scenes  
+
+👉 https://pratimcodes.hashnode.dev/
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Bootstrap  
+**Backend:** Node.js, Express, Docker  
+**Databases:** SQL + NoSQL, Redis  
+**Systems:** AWS (S3, SQS, Lambda, ECS), Kafka  
+**Tools:** Git  
+
+---
+
+⭐ I’m open to roles involving Full-Stack Engineering and System Design.
