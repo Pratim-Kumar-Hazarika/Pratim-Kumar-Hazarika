@@ -44,16 +44,25 @@ https://github.com/Pratim-Kumar-Hazarika/exploring-kafka
 ## 🛠️ Tech Stack
 
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind, 
-**Backend:** Node.js, Express, Docker , Nestjs, Redis, Kafka , Docker , Kafka
+
+**Backend:** Node.js, Express, Docker , Nestjs, Redis, Kafka 
+
 **Databases:** Postgress, MongoDb, Supabase
+
 **Cloud Provider:** AWS 
+
 **Tools:** Git  
+
 **Coding Editor:** Vs-Code, Cursor
 
 ---
 
 ## 🛠️ Third Party Integrations
+
 **Twilio:** SMS, Live Chat Integrations
+
 **Razorpay:** Payments Integrations
+
+**Monitoring**: Sentry
 
 ⭐ I’m open to roles involving Full-Stack Engineering
