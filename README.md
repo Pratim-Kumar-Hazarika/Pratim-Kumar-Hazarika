@@ -56,4 +56,4 @@ https://github.com/Pratim-Kumar-Hazarika/exploring-kafka
 
 ---
 
-⭐ I’m open to roles involving Full-Stack Engineering and System Design.
+⭐ I’m open to roles involving Full-Stack Engineering
