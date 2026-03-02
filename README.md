@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratim Hazarika</h1>
-<h3 align="center">Full-Stack Engineer | Systems Design Enthusiast | Building Scalable Architectures</h3>
-<h4 align="center">I can build full stack (web+mobile) apps && deploy it.</h3>
+<h3 align="center">Full-Stack Engineer | Learning to build systems ⚙️</h3>
 
 ---
 
