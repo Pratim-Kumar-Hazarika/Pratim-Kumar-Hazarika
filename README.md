@@ -31,7 +31,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7433795975220969472/
 ### 🔹 Exploring Kafka
 https://github.com/Pratim-Kumar-Hazarika/exploring-kafka
 
-### 🔹 Databases Indexes ( GIN Trigram index )
+### 🔹 Database Indexes ( GIN Trigram index )
 https://github.com/Pratim-Kumar-Hazarika/Database-index
 
 ---
