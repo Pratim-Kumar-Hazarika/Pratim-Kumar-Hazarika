@@ -15,14 +15,6 @@ I enjoy building systems that **scale**, not just interfaces that look good.
 
 ---
 
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/pratim-hazarika/  
-- Twitter: https://twitter.com/pratimcodes  
-- Portfolio/Blogs: https://pratimcodes.hashnode.dev/
-
----
-
 ## 🧠 Systems Engineering
 
 ### 🔹 Video Transcoding Architecture
@@ -41,6 +33,14 @@ https://github.com/Pratim-Kumar-Hazarika/exploring-kafka
 
 ### 🔹 Databases Indexes ( GIN Trigram index )
 https://github.com/Pratim-Kumar-Hazarika/Database-index
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/pratim-hazarika/  
+- Twitter: https://twitter.com/pratimcodes  
+- Portfolio/Blogs: https://pratimcodes.hashnode.dev/
 
 ---
 
